@@ -1,0 +1,35 @@
+﻿
+<<<<<<< HEAD
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "NewService", "NewService\NewService.vcxproj", "{AF421F31-4798-4FD7-803C-3F2E350B9D76}"
+=======
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C++ Express 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "NewService", "NewService\NewService.vcxproj", "{2A20A2EC-92D8-422B-A942-CD9459909B27}"
+>>>>>>> Works on WMI
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+<<<<<<< HEAD
+		{AF421F31-4798-4FD7-803C-3F2E350B9D76}.Debug|Win32.ActiveCfg = Debug|Win32
+		{AF421F31-4798-4FD7-803C-3F2E350B9D76}.Debug|Win32.Build.0 = Debug|Win32
+		{AF421F31-4798-4FD7-803C-3F2E350B9D76}.Release|Win32.ActiveCfg = Release|Win32
+		{AF421F31-4798-4FD7-803C-3F2E350B9D76}.Release|Win32.Build.0 = Release|Win32
+=======
+		{2A20A2EC-92D8-422B-A942-CD9459909B27}.Debug|Win32.ActiveCfg = Debug|Win32
+		{2A20A2EC-92D8-422B-A942-CD9459909B27}.Debug|Win32.Build.0 = Debug|Win32
+		{2A20A2EC-92D8-422B-A942-CD9459909B27}.Release|Win32.ActiveCfg = Release|Win32
+		{2A20A2EC-92D8-422B-A942-CD9459909B27}.Release|Win32.Build.0 = Release|Win32
+>>>>>>> Works on WMI
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

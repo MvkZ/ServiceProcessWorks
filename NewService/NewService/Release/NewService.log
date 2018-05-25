@@ -1,0 +1,18 @@
+﻿Build started 5/24/2018 12:43:20 PM.
+     1>Project "C:\Users\Administrator\Documents\Visual Studio 2013\Projects\NewService\NewService\NewService.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /sdl /O2 /Oi /Oy- /GL /D WIN32 /D NDEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Yc"stdafx.h" /Fp"Release\NewService.pch" /Fo"Release\\" /Fd"Release\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt stdafx.cpp
+         stdafx.cpp
+         C:\Program Files\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /sdl /O2 /Oi /Oy- /GL /D WIN32 /D NDEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Release\NewService.pch" /Fo"Release\\" /Fd"Release\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt NewService.cpp
+         NewService.cpp
+       Link:
+         C:\Program Files\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Administrator\Documents\Visual Studio 2013\Projects\NewService\Release\NewService.exe" /INCREMENTAL:NO /NOLOGO Userenv.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Administrator\Documents\Visual Studio 2013\Projects\NewService\Release\NewService.pdb" /SUBSYSTEM:CONSOLE /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Administrator\Documents\Visual Studio 2013\Projects\NewService\Release\NewService.lib" /MACHINE:X86 /SAFESEH Release\NewService.obj
+         Release\stdafx.obj
+         Generating code
+         Finished generating code
+         NewService.vcxproj -> C:\Users\Administrator\Documents\Visual Studio 2013\Projects\NewService\Release\NewService.exe
+     1>Done Building Project "C:\Users\Administrator\Documents\Visual Studio 2013\Projects\NewService\NewService\NewService.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.26
